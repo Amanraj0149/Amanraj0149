@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj0149&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj0149" /> </p>
 
-- ⚡ Fun fact **I am funny😉**
+- ⚡ Fun fact **I have a great sense of humor and love making people laugh! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
