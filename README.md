@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">✨✨Unlocking the Digital World: Coder in Action✨✨</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=28&center=true&vCenter=true&width=600&height=100&lines=FullStack+Web+Developer;Passionate+Software+Engineer+from+India;"></a>
+</p>
+
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ6ZXlrc3l6cGlxbXl3cnRrZG8zZjZ1c3YwOGg4MWZubTBxNmNjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj0149&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj0149" /> </p>
