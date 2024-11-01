@@ -16,7 +16,6 @@
         <li><strong>Skilled in web development:</strong> HTML5, CSS3, JavaScript</li>
         <li><strong>Backend expertise:</strong> Node.js, Express.js</li>
         <li><strong>Database management:</strong> MongoDB</li>
-        <li><strong>Version control:</strong> Git, GitHub (branching, pull requests)</li>
         <li><strong>API testing and debugging:</strong> Postman</li>
         <li><strong>Cloud and data skills:</strong> AWS Cloud Practitioner Essentials, SQL Certification</li>
       </ul>
