@@ -12,7 +12,7 @@
     <td>
       <h4>⚡ Skills:</h4>
       <ul>
-        <li><strong>Proficient in programming languages:</strong> C, C++, Java</li>
+        <li><strong>Proficient in programming languages:</strong>  C++, Java</li>
         <li><strong>Skilled in web development:</strong> HTML5, CSS3, JavaScript</li>
         <li><strong>Backend expertise:</strong> Node.js, Express.js</li>
         <li><strong>Database management:</strong> MongoDB</li>
