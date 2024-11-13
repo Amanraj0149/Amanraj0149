@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Enthusiast | MERN Stack Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj0149&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj0149" /> </p>
 
