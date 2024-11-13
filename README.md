@@ -12,9 +12,9 @@
     <td>
       <h4>⚡ Skills:</h4>
       <ul>
-        <li><strong>Proficient in programming languages:</strong>  C++, Java</li>
+        <li><strong> programming languages:</strong>  C++, Java</li>
         <li><strong>Skilled in web development:</strong> HTML5, CSS3, JavaScript</li>
-        <li><strong>Backend expertise:</strong> Node.js, Express.js</li>
+        <li><strong>Backend :</strong> Node.js, Express.js</li>
         <li><strong>Database management:</strong> MongoDB</li>
         <li><strong>API testing and debugging:</strong> Postman</li>
         <li><strong>Cloud and data skills:</strong> AWS Cloud Practitioner Essentials, SQL Certification</li>
